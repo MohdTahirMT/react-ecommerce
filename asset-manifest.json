@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-ecommerce/static/css/main.2ae4bb2a.chunk.css",
+    "main.js": "/react-ecommerce/static/js/main.39516494.chunk.js",
+    "main.js.map": "/react-ecommerce/static/js/main.39516494.chunk.js.map",
+    "runtime-main.js": "/react-ecommerce/static/js/runtime-main.ae1131d7.js",
+    "runtime-main.js.map": "/react-ecommerce/static/js/runtime-main.ae1131d7.js.map",
+    "static/js/2.9e4eafc8.chunk.js": "/react-ecommerce/static/js/2.9e4eafc8.chunk.js",
+    "static/js/2.9e4eafc8.chunk.js.map": "/react-ecommerce/static/js/2.9e4eafc8.chunk.js.map",
+    "index.html": "/react-ecommerce/index.html",
+    "static/css/main.2ae4bb2a.chunk.css.map": "/react-ecommerce/static/css/main.2ae4bb2a.chunk.css.map",
+    "static/js/2.9e4eafc8.chunk.js.LICENSE.txt": "/react-ecommerce/static/js/2.9e4eafc8.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-ecommerce/static/media/bbb.d7a35a2a.jpg",
+    "static/media/dslr.e1a0623e.jpg": "/react-ecommerce/static/media/dslr.e1a0623e.jpg",
+    "static/media/headphone.caca2abc.jpg": "/react-ecommerce/static/media/headphone.caca2abc.jpg",
+    "static/media/iphone.4f3a9062.jpg": "/react-ecommerce/static/media/iphone.4f3a9062.jpg",
+    "static/media/microphone.cd85979c.jpg": "/react-ecommerce/static/media/microphone.cd85979c.jpg",
+    "static/media/perfume.985bf581.jpg": "/react-ecommerce/static/media/perfume.985bf581.jpg",
+    "static/media/ring.cdb78b62.jpg": "/react-ecommerce/static/media/ring.cdb78b62.jpg",
+    "static/media/shoe.4902657a.jpg": "/react-ecommerce/static/media/shoe.4902657a.jpg",
+    "static/media/watch.ea550e38.jpg": "/react-ecommerce/static/media/watch.ea550e38.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae1131d7.js",
+    "static/js/2.9e4eafc8.chunk.js",
+    "static/css/main.2ae4bb2a.chunk.css",
+    "static/js/main.39516494.chunk.js"
+  ]
+}
